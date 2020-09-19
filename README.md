@@ -1,1 +1,1 @@
-### Repo for DevOps assignments - Tuure Tarvainen 
+### Repo for DevOps with Docker assignments - Tuure Tarvainen 
