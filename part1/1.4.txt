@@ -1,0 +1,4 @@
+docker run -d devopsdockeruh/exec_bash_exercise
+docker exec -it dreamy_dirac bash
+tail -f ./logs.txt
+"Docker is easy"

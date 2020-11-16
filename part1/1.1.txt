@@ -1,0 +1,4 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                       PORTS               NAMES
+ac44ec78cc4a        httpd               "httpd-foreground"       5 minutes ago       Exited (137) 3 minutes ago                       goofy_yonath
+9bf4fd0266fd        nginx               "/docker-entrypoint.…"   5 minutes ago       Up 5 minutes                 80/tcp              elegant_heyrovsky
+0d679f344001        hello-world         "/hello"                 13 minutes ago      Exited (0) 13 minutes ago                        reverent_bartik
