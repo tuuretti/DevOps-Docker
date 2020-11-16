@@ -1,0 +1,6 @@
+TOUCH Dockerfile
+
+FROM devopsdockeruh/overwrite_cmd_exercise
+CMD
+
+docker build -t docker-clock .
